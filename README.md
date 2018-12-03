@@ -24,4 +24,9 @@ I will add the following:
 * Manager view 
 * Supervisor view
 
+## A Gif Example
+
+In this gif, we see the basic functionality. I type in the item I want, and then the quanity. The app tells me the price of the pruchase, and updates the mySQL database to reflect the new reduced inventory
+
+![](output.gif)
 
